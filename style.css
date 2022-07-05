@@ -1,0 +1,38 @@
+body {
+    margin: 10px;
+    margin-right: 10px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.skip-color {
+    color: orange;
+}
+
+.diet-text {
+    color: #575757;
+}
+
+.order-food {
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(to right, orange, tomato);
+    padding: 8px 25px;
+    font-weight: 400;
+    border-radius: 18px;
+}
+
+section {
+    display: flex;
+}
+
+.first-container {
+    margin-top: 10%;
+}
+
+.second-container {
+    width: 80%;
+}
+
+h1 {
+    font-size: 50px;
+}
